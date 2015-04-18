@@ -50,6 +50,13 @@
      <Compile Include="Assets\CameraMovement.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\PlayerWeapon.cs" />
+	 <Compile Include="Assets\AsteroidMovement.cs" />
+     <Compile Include="Assets\Border.cs" />
+     <Compile Include="Assets\BulletMovement.cs" />
+     <Compile Include="Assets\CameraController.cs" />
+     <Compile Include="Assets\EnemyCollision.cs" />
+     <Compile Include="Assets\EnemyShooting.cs" />
+     <Compile Include="Assets\FollowPlayer.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Dev/Programs/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

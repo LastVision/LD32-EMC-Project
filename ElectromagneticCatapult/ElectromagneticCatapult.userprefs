@@ -5,6 +5,11 @@
       <File FileName="Assets\CameraMovement.cs" Line="12" Column="5" />
       <File FileName="Assets\PlayerMovement.cs" Line="1" Column="1" />
       <File FileName="Assets\PlayerWeapon.cs" Line="21" Column="5" />
+	  <File FileName="Assets\FollowPlayer.cs" Line="26" Column="2" />
+      <File FileName="Assets\EnemyCollision.cs" Line="29" Column="1" />
+      <File FileName="Assets\BulletMovement.cs" Line="14" Column="3" />
+      <File FileName="Assets\EnemyShooting.cs" Line="26" Column="4" />
+      <File FileName="Assets\AsteroidMovement.cs" Line="6" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
