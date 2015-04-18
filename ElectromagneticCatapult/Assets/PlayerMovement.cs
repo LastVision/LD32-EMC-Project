@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
 	public float Speed;
 	void Start () 
 	{
-	
+
 	}
 	
 	// Update is called once per frame
@@ -16,11 +16,11 @@ public class PlayerMovement : MonoBehaviour
 	{
 		if(Input.GetKey(KeyCode.W) == true)
 		{
-			transform.position += Camera.main.transform.forward * Speed;
+			transform.position += Camera.main.transform.up * Speed;
 		}
 		else if(Input.GetKey(KeyCode.S) == true)
 		{
-			transform.position += Camera.main.transform.forward * -Speed;
+			transform.position += Camera.main.transform.up * -Speed;
 		}
 		if(Input.GetKey(KeyCode.A) == true)
 		{
