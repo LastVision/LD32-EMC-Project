@@ -55,6 +55,7 @@
      <Compile Include="Assets\EnemyCollision.cs" />
      <Compile Include="Assets\EnemyShooting.cs" />
      <Compile Include="Assets\FollowPlayer.cs" />
+     <Compile Include="Assets\PlayerBulletMovement.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\PlayerWeapon.cs" />
  <Reference Include="UnityEngine.UI">
