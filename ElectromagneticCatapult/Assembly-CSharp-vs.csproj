@@ -55,9 +55,13 @@
      <Compile Include="Assets\EnemyCollision.cs" />
      <Compile Include="Assets\EnemyShooting.cs" />
      <Compile Include="Assets\FollowPlayer.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\PlayerBulletMovement.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\PlayerWeapon.cs" />
+=======
+     <Compile Include="Assets\PlayerMovement.cs" />
+>>>>>>> pr/12
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
