@@ -9,6 +9,7 @@
       <File FileName="Assets\BulletMovement.cs" Line="8" Column="2" />
       <File FileName="Assets\AsteroidMovement.cs" Line="1" Column="1" />
       <File FileName="Assets\EnemyShooting.cs" Line="29" Column="1" />
+
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
